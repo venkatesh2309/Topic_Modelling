@@ -5,6 +5,10 @@ Bert Topic Links:
 Python:
 https://pypi.org/project/bertopic/0.3.1/
 
+API Reference:
+
+https://maartengr.github.io/BERTopic/getting_started/parameter%20tuning/parametertuning.html#prediction_data
+
 
 model api fine tuning:
 https://huggingface.co/MaartenGr/BERTopic_Wikipedia
