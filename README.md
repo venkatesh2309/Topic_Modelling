@@ -1,5 +1,4 @@
-# Topic_Mode
-lling
+# Topic_Model
 
 Bert Topic Links:
 
